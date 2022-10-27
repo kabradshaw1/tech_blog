@@ -3,7 +3,7 @@
 ## Purpose
 This exercise is for practice developing with thee Model-View-Controller (MVC) paradigm.
 
-## Techonologies
+## Technologies
 * Node
 * Express
 * MySQL
